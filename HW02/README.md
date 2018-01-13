@@ -210,7 +210,7 @@ To test your code. You have to first compile it and the run the following comman
 
 Submitting Your code
 --------
-**This is a programming assignment, so you would have to submit the code on Blackboard**
+**Please submit the code on Blackboard**
 
 You have to submit the following file in a zip folder on the blackboard:
 * pe02.c - this file should have with `distance2` and `closestCentroid` function completed.  
